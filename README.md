@@ -7,4 +7,4 @@ crypto tunnel for execute a command
 
 Для чего? Да поставить точку на своем ГОВНО программирование.
 
-<img src="https://github.com/oditynet/sshnax/blob/main/sshnax.png" title="example" width="500" />
+<img src="https://github.com/oditynet/sshnax/blob/main/sshnax.png" title="example" width="800" />
